@@ -8,6 +8,7 @@
 |---test.txt
 |-----core_battery00000003.xml
 |-----core_battery00000004.xml
+|-----.........
 |-checkpoints
 |--model_submit.pth
 |-...
